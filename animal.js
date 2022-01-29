@@ -23,6 +23,6 @@ function depthOfAnimal(depth) {
     }
     return animal;
 }
-var depth = 22;
+var depth = 17;
 
 console.log(depthOfAnimal(depth));
